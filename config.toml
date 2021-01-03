@@ -6,7 +6,7 @@ title = "Ashish Sehgal"
 # 1. Type # at the beginning of above line
 
 # 2. Remove # from line below and replace hsrai with your userID at github 
-baseURL = "https://misashsehgal.github.io"
+baseURL = "https://misashsehgal.github.io/www"
 
 # 2. Remove # from line below
 publishDir = "docs"
